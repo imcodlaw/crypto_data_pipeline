@@ -13,3 +13,4 @@ A pipeline that includes the following task :
 - Pushing the extracted features to a sqlite db
 	- Extracted features are stored while the raw data are being deleted every 30 minutes to optimize storage use
 
+<img width="671" height="801" alt="data_pipeline" src="https://github.com/user-attachments/assets/96270f7d-0a61-431a-91aa-8ab7e1b63e67" />
