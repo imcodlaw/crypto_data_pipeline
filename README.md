@@ -1,4 +1,4 @@
-# Data processing pipeline
+# Real-Time Crypto Data Engineering Pipeline (Bybit WebSocket)
 A pipeline that includes the following task :
 
 - Listening into Bybit's websocket stream for klines and trades data
