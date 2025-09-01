@@ -2,8 +2,7 @@
 A pipeline that includes the following task :
 
 - Listening into Bybit's websocket stream for klines and trades data
-
-  Establishing a websocket connection from Bybit that streams trades and klines data. Raw trades and klines data are pushed into different tables
+	- Establishing a websocket connection from Bybit that streams trades and klines data. Raw trades and klines data are pushed into different tables
   
 - Aggregating raw data into 1 minute format
   
