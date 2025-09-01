@@ -1,4 +1,5 @@
-# Data processing pipeline that includes :
+# Data processing pipeline
+A pipeline that includes the following task :
 
 ## - Listening into Bybit's websocket stream for klines and trades data
 - Aggregating raw data into 1 minute format
